@@ -1,2 +1,13 @@
-# BlenderMergeAnimations
-Merge different animations of the same bone using Blender
+# 前言
+- 美国著名五星上将麦克阿瑟曾表示，“一个动画能完成的事就不要用两个！”，此话一出，迅速引起了社会各界的广泛关注......
+# 前置提示
+- Blender版本：3.6.4
+# 操作索引
+- [大纲视图]()
+- [时间线]()
+# 具体步骤
+1.先在**大纲视图**删除不需要用到的东西
+
+2.导入两个FBX动画，我所选择的示例是UE5Manny走和跑的动作，**时间线**点击播放可以查看动画情况
+
+3.
