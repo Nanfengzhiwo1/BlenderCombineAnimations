@@ -16,8 +16,6 @@
 # Operating manual
 - [Split Area](https://github.com/Nanfengzhiwo1/BlenderCombineAnimations/issues/10)
 # How to start
-1.先在**大纲视图**删除不需要用到的东西
-
-2.导入两个FBX动画，我所选择的示例是UE5Manny走和跑的动作，**时间线**点击播放可以查看动画情况
-
-3.
+1.In [Outliner](https://github.com/Nanfengzhiwo1/BlenderCombineAnimations/issues/2), Press **A** to select all, and press **Delete** to delete all
+![image](https://github.com/Nanfengzhiwo1/BlenderCombineAnimations/assets/107869748/15297cdf-f7c2-48f4-8003-3ae1799f7e34)
+2.Import two animations(Walk and Run),you can play animations in [Timeline](https://github.com/Nanfengzhiwo1/BlenderCombineAnimations/issues/3),now choose the 'Walk' (my 'Walk' is in the root.001,because the first animation which is imported is 'Run' not 'Walk'),and hide the 'Run'(Press the eye icon)
