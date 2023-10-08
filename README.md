@@ -1,20 +1,20 @@
-# 前言
+# Preface
 - 美国著名五星上将麦克阿瑟曾表示，“一个动画能完成的事就不要用两个！”，此话一出，迅速引起了社会各界的广泛关注......
-# 前置提示
-- Blender版本：3.6.4
-- UE5Manny走和跑的动作
+# Prompt
+- Blender Version：3.6.4
+- Animation: Run and Walk(UE5 Manny)
 # 基础索引
-- [3D视图]()
-- [大纲视图]()
-- [时间线]()
-- [动画摄影表-动作编辑器]()
-- [非线性动画]()
-- [曲线编辑器]()
-- [姿态模式]()
-- [姿态-动画-烘培动作]()
-- [导出]()
+- [3D Viewport](https://github.com/Nanfengzhiwo1/BlenderCombineAnimations/issues/1)
+- [Outliner](https://github.com/Nanfengzhiwo1/BlenderCombineAnimations/issues/2)
+- [Timeline](https://github.com/Nanfengzhiwo1/BlenderCombineAnimations/issues/3)
+- [Dope Sheet - Action Editor](https://github.com/Nanfengzhiwo1/BlenderCombineAnimations/issues/4)
+- [Nonlinear Animation](https://github.com/Nanfengzhiwo1/BlenderCombineAnimations/issues/5)
+- [Graph Editor](https://github.com/Nanfengzhiwo1/BlenderCombineAnimations/issues/6)
+- [Pose Mode](https://github.com/Nanfengzhiwo1/BlenderCombineAnimations/issues/7)
+- [Pose - Animation - Bake Action](https://github.com/Nanfengzhiwo1/BlenderCombineAnimations/issues/8)
+- [Export](https://github.com/Nanfengzhiwo1/BlenderCombineAnimations/issues/9)
 # 操作索引
-- [分割窗口]()
+- [Split Area](https://github.com/Nanfengzhiwo1/BlenderCombineAnimations/issues/10)
 # 具体步骤
 1.先在**大纲视图**删除不需要用到的东西
 
