@@ -1,5 +1,5 @@
 # Preface
-- 美国著名五星上将麦克阿瑟曾表示，“一个动画能完成的事就不要用两个！”，此话一出，迅速引起了社会各界的广泛关注......
+> The famous 5-star American general , MacArthur once said, "Don't use two animations for what one animation can accomplish!" This statement quickly attracted widespread attention from all sectors of society......
 # Prompt
 - Blender Version：3.6.4
 - Animation: Run and Walk(UE5 Manny)
