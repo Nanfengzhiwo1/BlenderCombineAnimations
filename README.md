@@ -1,5 +1,5 @@
 # Preface
-> The famous 5-star American general , MacArthur once said, "Don't use two animations for what one animation can accomplish!" This statement quickly attracted widespread attention from all sectors of society......
+> **_The famous 5-star American general , MacArthur once said, "Don't use two animations for what one animation can accomplish!" This statement quickly attracted widespread attention from all sectors of society......_**
 # Prompt
 - Blender Version：3.6.4
 - Animation: Run and Walk(UE5 Manny)
