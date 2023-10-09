@@ -63,7 +63,7 @@
 ![image](https://github.com/Nanfengzhiwo1/BlenderCombineAnimations/assets/107869748/95efb808-190c-40e5-ab34-01c37e80b513)
 
 
-### Step9
+### Step9!!!
 * In bottom area, press **A**,select all animations.
 * Change 'Object Mode' to 'Pose Mode',click 'pose'-'Animation'-'Bake Action...'
 ![image](https://github.com/Nanfengzhiwo1/BlenderCombineAnimations/assets/107869748/599c6e46-a4cf-44bd-a8d0-a905a807295d)
