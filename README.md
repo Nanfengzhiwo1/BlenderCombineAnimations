@@ -26,8 +26,9 @@
 ![image](https://github.com/Nanfengzhiwo1/BlenderCombineAnimations/assets/107869748/c158ef44-c1e9-4a7a-82a1-57335ca0219c)
 5.Click the button ,select other ,rename to 'Running' and push down
 ![image](https://github.com/Nanfengzhiwo1/BlenderCombineAnimations/assets/107869748/9f271658-f561-4107-993b-ca4cb4fb29b2)
-6.
-7.
-8.
-9.
-10.
+6.  
+7.  
+8.  
+9.  
+10.  
+Wait a minutes...improving....
