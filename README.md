@@ -53,13 +53,31 @@
 > **when you check the two animations,the character in 3D Viewport will step back because [Graph Editor](https://github.com/Nanfengzhiwo1/BlenderCombineAnimations/issues/6) has not been modified yet**  
 
 ### Step7
-* In top Area,Press **Shift**+**F6**,Open [Graph Editor](https://github.com/Nanfengzhiwo1/BlenderCombineAnimations/issues/6).
+* In top area,Press **Shift**+**F6**,Open [Graph Editor](https://github.com/Nanfengzhiwo1/BlenderCombineAnimations/issues/6).
 * Click 'Walking',Press **Tab**,search the data of the last frame of 'Y Location' under 'root',click eye icon to hide others
 ![image](https://github.com/Nanfengzhiwo1/BlenderCombineAnimations/assets/107869748/88f12bf2-28d2-40b5-b6ff-1bf578be6ddd)
 
 ### Step8
 * Click 'Running',Press **G** ,Set the value of the last frame as the Cursor Y's initial value.
-* Move all keyframes down by the corresponding distance(The second animation should start from the end position of the first animation, not from 0)  
-9.  
-10.  
-Wait a minutes...improving....
+* Move all keyframes down by the corresponding distance(The second animation should start from the end position of the first animation, not from 0)
+![image](https://github.com/Nanfengzhiwo1/BlenderCombineAnimations/assets/107869748/95efb808-190c-40e5-ab34-01c37e80b513)
+
+
+### Step9
+* In bottom area, press **A**,select all animations.
+* Change 'Object Mode' to 'Pose Mode',click 'pose'-'Animation'-'Bake Action...'
+![image](https://github.com/Nanfengzhiwo1/BlenderCombineAnimations/assets/107869748/599c6e46-a4cf-44bd-a8d0-a905a807295d)
+
+### Step10
+* Modify the end frame，
+* Bake Data select Pose and Object,**Shift-Click** to select multiple,click 'OK'
+![image](https://github.com/Nanfengzhiwo1/BlenderCombineAnimations/assets/107869748/022924ed-3a33-4a78-bbb4-bef8663a9be4)
+
+### Step11
+* Delete 'Running' and 'Walking',push down the new animation
+![image](https://github.com/Nanfengzhiwo1/BlenderCombineAnimations/assets/107869748/93f40799-e98e-42f3-941d-856120c0baa6)
+
+### Step12
+* In Outliner,delete 'Run'
+* Export as FBX，export selected objects and do not add leaf bones
+![image](https://github.com/Nanfengzhiwo1/BlenderCombineAnimations/assets/107869748/4d47b3f9-7ff4-4936-a991-46321401a3f7)
