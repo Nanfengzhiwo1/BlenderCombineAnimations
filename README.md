@@ -34,7 +34,7 @@
 7.In top Area,Press **Shift**+**F6**,Open [Graph Editor](https://github.com/Nanfengzhiwo1/BlenderCombineAnimations/issues/6).Click 'Walking',Press **Tab**,search the data of the last frame of 'Y Location' under 'root',click eye icon to hide others
 ![image](https://github.com/Nanfengzhiwo1/BlenderCombineAnimations/assets/107869748/88f12bf2-28d2-40b5-b6ff-1bf578be6ddd)
 
-8.Click 'Running',Press **G** ,Set the value of the last frame as the Cursor Y's initial value.Move all keyframes down by the corresponding distance(The second animation should start from the end position of the first animation, not from 0)
+8.Click 'Running',Press **G** ,Set the value of the last frame as the Cursor Y's initial value.Move all keyframes down by the corresponding distance(The second animation should start from the end position of the first animation, not from 0)  
 9.  
 10.  
 Wait a minutes...improving....
