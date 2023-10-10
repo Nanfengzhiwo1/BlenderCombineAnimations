@@ -81,3 +81,8 @@
 * In Outliner,delete 'Run'
 * Export as FBX，export selected objects and do not add leaf bones
 ![image](https://github.com/Nanfengzhiwo1/BlenderCombineAnimations/assets/107869748/4d47b3f9-7ff4-4936-a991-46321401a3f7)
+# Preview
+
+
+https://github.com/Nanfengzhiwo1/BlenderCombineAnimations/assets/107869748/d8e1b3ba-3f21-4a10-945c-b9b775a96877
+
